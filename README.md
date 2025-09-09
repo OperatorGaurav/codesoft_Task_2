@@ -16,5 +16,5 @@ Users can input stock names and quantities, and the program displays the total v
 - File handling  
 
 ## ▶️ How to Run
-```bash
-python stock_tracker.py
+Download or clone this repository:
+- git clone https://github.com/OperatorGaurav/codesoft_Task_2
